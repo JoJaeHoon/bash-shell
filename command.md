@@ -1,8 +1,8 @@
 # Installing Bash on Windows 10  
 ***  
-Select the developer mode in the Developer tab in the "windows update settings"  
-After confirming "Windows subsystem for Linux" in the "window operation tuning/off", reboot  
-Enter bash in cmd  
+1. Select the developer mode in the Developer tab in the "windows update settings"  
+2. After confirming "Windows subsystem for Linux" in the "window operation tuning/off", reboot  
+3. Enter bash in cmd  
 # bash shell  
 ***
 file delete : `find /root -name 'file' -exec rm -r {} \;`  
