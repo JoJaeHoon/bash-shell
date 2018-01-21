@@ -19,5 +19,10 @@ error : no acceptable C compiler found in $PATH
 `apt-get upgrade`  
 `sudo apt-get install build-essential`  
 build-essential 소프트웨어를 빌드하는데 수많은 패키지 참조
+pip : 파이썬으로 작성된 패키지를 관리하는 프로그램
+pip 설치
+```bash
+apt-get install python-pip
+```
 
 
